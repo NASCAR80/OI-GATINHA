@@ -1,0 +1,22 @@
+ <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Você me ama?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>VOCÊ ME AMA?</h1>
+        <div class="buttons">
+            <button id="yesBtn">SIM</button>
+            <button id="noBtn">NÃO</button>
+        </div>
+        <div id="catContainer" class="hidden">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjnHDsMhaLL86tAr9jH9eGmwE4q5LNyYstFXr9I-FcZ8ldVih2NKe-o39&s=10" alt="Gatinho com coração">
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
